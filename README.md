@@ -41,4 +41,4 @@ This is the first game built on Arc by me — still early and evolving. Feedback
 
 Feedback
 
-Found a bug? Have an idea? Feel free to open an issue or reach out — I'd love to hear what you think.
+Found a bug? Have an idea? Feel free to open an issue or reach out, I'd love to hear what you think.
