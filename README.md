@@ -1,4 +1,5 @@
-**ARC RUNNER 🚀**
+**ARC RUNNER **
+
 
 An endless space runner game built on Arc, where every run is on-chain and every score is permanent.
 
