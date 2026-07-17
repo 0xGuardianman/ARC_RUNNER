@@ -37,7 +37,7 @@ https://arc-runner.vercel.app/
 
 Status
 
-This is the first game built on Arc by me — still early and evolving. Feedback, bug reports, and suggestions are always welcome. More builds coming soon!
+This is the first game built on Arc by me and still early and evolving. Feedback, bug reports, and suggestions are always welcome. More builds coming soon!
 
 Feedback
 
